@@ -1,0 +1,6 @@
+pip install pipenv
+pipenv install flask
+pipenv shell
+
+
+python -m venv venv
